@@ -1,0 +1,31 @@
+bennett-object isa=0.9 object=0.9 launch=0.9 sched=0.9 cert=0.9 coverage=0.9 target=0.9 ptr_width=32
+
+section functions
+oracle @diamond (x:wire[8] in) (t:wire[8]) (f:wire[4]) () ()
+regs { n:reg[8], a:reg[8], z:reg[8], one:reg[8], bit:reg[8], p:reg[1], done:reg[1] }
+^entry():
+n = lift.mov x
+z = lift.const.i8 0
+one = lift.const.i8 1
+a = lift.const.i8 0
+qjump ^test
+^test():
+done = lift.icmp.eq n z
+qbranch done ^done ^choose
+^choose():
+bit = lift.and n one
+p = lift.icmp.eq bit z
+qbranch p ^short ^long
+^short():
+a = lift.add a one
+qjump ^join
+^long():
+a = lift.add a one
+a = lift.xor a one
+a = lift.xor a one
+qjump ^join
+^join():
+n = lift.lshr n one
+qjump ^test
+^done():
+lift.retval a

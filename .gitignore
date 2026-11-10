@@ -1,0 +1,6 @@
+model/target/
+formal/.lake/
+__pycache__/
+# The ISA spec snapshot is restored from bennett-isa-spec at SNAPSHOT_REV (see README).
+ref/isa-spec/*
+!ref/isa-spec/SNAPSHOT_REV

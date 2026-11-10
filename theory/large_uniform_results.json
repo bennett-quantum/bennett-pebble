@@ -1,0 +1,92 @@
+[
+  {
+    "m": 1000,
+    "r": 1,
+    "depth": 19,
+    "max_leaf": 1908,
+    "space": 21908,
+    "forward_no_copy_cost": 2216611319526,
+    "oracle_step_factor": 4433.222639052,
+    "forward_if_k_equals_m": 2797742052526
+  },
+  {
+    "m": 1000,
+    "r": 10,
+    "depth": 23,
+    "max_leaf": 120,
+    "space": 25200,
+    "forward_no_copy_cost": 11209564395576,
+    "oracle_step_factor": 22419.128791152,
+    "forward_if_k_equals_m": 58281153808576
+  },
+  {
+    "m": 1000,
+    "r": 1000,
+    "depth": 29,
+    "max_leaf": 2,
+    "space": 32000,
+    "forward_no_copy_cost": 114122082065886,
+    "oracle_step_factor": 228244.164131772,
+    "forward_if_k_equals_m": 34429310764506886
+  },
+  {
+    "m": 100000,
+    "r": 1,
+    "depth": 13,
+    "max_leaf": 122071,
+    "space": 1522071,
+    "forward_no_copy_cost": 194619225123,
+    "oracle_step_factor": 389.238450246,
+    "forward_if_k_equals_m": 274335325123
+  },
+  {
+    "m": 100000,
+    "r": 10,
+    "depth": 16,
+    "max_leaf": 15259,
+    "space": 1852590,
+    "forward_no_copy_cost": 656831649915,
+    "oracle_step_factor": 1313.66329983,
+    "forward_if_k_equals_m": 2809167649915
+  },
+  {
+    "m": 100000,
+    "r": 1000,
+    "depth": 23,
+    "max_leaf": 120,
+    "space": 2520000,
+    "forward_no_copy_cost": 11209564395576,
+    "oracle_step_factor": 22419.128791152,
+    "forward_if_k_equals_m": 4718368505695576
+  },
+  {
+    "m": 10000000,
+    "r": 1,
+    "depth": 6,
+    "max_leaf": 15625000,
+    "space": 85625000,
+    "forward_no_copy_cost": 11390625000,
+    "oracle_step_factor": 22.78125,
+    "forward_if_k_equals_m": 15030625000
+  },
+  {
+    "m": 10000000,
+    "r": 10,
+    "depth": 9,
+    "max_leaf": 1953125,
+    "space": 119531250,
+    "forward_no_copy_cost": 38443359375,
+    "oracle_step_factor": 76.88671875,
+    "forward_if_k_equals_m": 136853359375
+  },
+  {
+    "m": 10000000,
+    "r": 1000,
+    "depth": 16,
+    "max_leaf": 15259,
+    "space": 185259000,
+    "forward_no_copy_cost": 656831649915,
+    "oracle_step_factor": 1313.66329983,
+    "forward_if_k_equals_m": 215890431649915
+  }
+]

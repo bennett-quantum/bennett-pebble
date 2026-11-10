@@ -1,0 +1,4042 @@
+{
+  "cases": 448,
+  "balanced_checks": 30,
+  "zero_residue_checks": 7,
+  "one_token_checks": 35,
+  "gap_count": 0,
+  "first_gaps": [],
+  "all": [
+    {
+      "T": 0,
+      "m": 1,
+      "r": 1,
+      "S": 1,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 1,
+      "r": 1,
+      "S": 1,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 2,
+      "m": 1,
+      "r": 1,
+      "S": 1,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 3,
+      "m": 1,
+      "r": 1,
+      "S": 1,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 4,
+      "m": 1,
+      "r": 1,
+      "S": 1,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 5,
+      "m": 1,
+      "r": 1,
+      "S": 1,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 6,
+      "m": 1,
+      "r": 1,
+      "S": 1,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 7,
+      "m": 1,
+      "r": 1,
+      "S": 1,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 0,
+      "m": 1,
+      "r": 1,
+      "S": 2,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 1,
+      "r": 1,
+      "S": 2,
+      "exact": 1,
+      "nested": 1,
+      "states": 3
+    },
+    {
+      "T": 2,
+      "m": 1,
+      "r": 1,
+      "S": 2,
+      "exact": null,
+      "nested": null,
+      "states": 3
+    },
+    {
+      "T": 3,
+      "m": 1,
+      "r": 1,
+      "S": 2,
+      "exact": null,
+      "nested": null,
+      "states": 3
+    },
+    {
+      "T": 4,
+      "m": 1,
+      "r": 1,
+      "S": 2,
+      "exact": null,
+      "nested": null,
+      "states": 3
+    },
+    {
+      "T": 5,
+      "m": 1,
+      "r": 1,
+      "S": 2,
+      "exact": null,
+      "nested": null,
+      "states": 3
+    },
+    {
+      "T": 6,
+      "m": 1,
+      "r": 1,
+      "S": 2,
+      "exact": null,
+      "nested": null,
+      "states": 3
+    },
+    {
+      "T": 7,
+      "m": 1,
+      "r": 1,
+      "S": 2,
+      "exact": null,
+      "nested": null,
+      "states": 3
+    },
+    {
+      "T": 0,
+      "m": 1,
+      "r": 1,
+      "S": 3,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 1,
+      "r": 1,
+      "S": 3,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 1,
+      "r": 1,
+      "S": 3,
+      "exact": 2,
+      "nested": 2,
+      "states": 8
+    },
+    {
+      "T": 3,
+      "m": 1,
+      "r": 1,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 11
+    },
+    {
+      "T": 4,
+      "m": 1,
+      "r": 1,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 11
+    },
+    {
+      "T": 5,
+      "m": 1,
+      "r": 1,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 11
+    },
+    {
+      "T": 6,
+      "m": 1,
+      "r": 1,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 11
+    },
+    {
+      "T": 7,
+      "m": 1,
+      "r": 1,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 11
+    },
+    {
+      "T": 0,
+      "m": 1,
+      "r": 1,
+      "S": 4,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 1,
+      "r": 1,
+      "S": 4,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 1,
+      "r": 1,
+      "S": 4,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 1,
+      "r": 1,
+      "S": 4,
+      "exact": 3,
+      "nested": 3,
+      "states": 20
+    },
+    {
+      "T": 4,
+      "m": 1,
+      "r": 1,
+      "S": 4,
+      "exact": 7,
+      "nested": 7,
+      "states": 48
+    },
+    {
+      "T": 5,
+      "m": 1,
+      "r": 1,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 53
+    },
+    {
+      "T": 6,
+      "m": 1,
+      "r": 1,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 53
+    },
+    {
+      "T": 7,
+      "m": 1,
+      "r": 1,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 53
+    },
+    {
+      "T": 0,
+      "m": 1,
+      "r": 1,
+      "S": 5,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 1,
+      "r": 1,
+      "S": 5,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 1,
+      "r": 1,
+      "S": 5,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 1,
+      "r": 1,
+      "S": 5,
+      "exact": 3,
+      "nested": 3,
+      "states": 34
+    },
+    {
+      "T": 4,
+      "m": 1,
+      "r": 1,
+      "S": 5,
+      "exact": 4,
+      "nested": 4,
+      "states": 49
+    },
+    {
+      "T": 5,
+      "m": 1,
+      "r": 1,
+      "S": 5,
+      "exact": 8,
+      "nested": 8,
+      "states": 165
+    },
+    {
+      "T": 6,
+      "m": 1,
+      "r": 1,
+      "S": 5,
+      "exact": 10,
+      "nested": 10,
+      "states": 239
+    },
+    {
+      "T": 7,
+      "m": 1,
+      "r": 1,
+      "S": 5,
+      "exact": 14,
+      "nested": 14,
+      "states": 340
+    },
+    {
+      "T": 0,
+      "m": 1,
+      "r": 1,
+      "S": 6,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 1,
+      "r": 1,
+      "S": 6,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 1,
+      "r": 1,
+      "S": 6,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 1,
+      "r": 1,
+      "S": 6,
+      "exact": 3,
+      "nested": 3,
+      "states": 34
+    },
+    {
+      "T": 4,
+      "m": 1,
+      "r": 1,
+      "S": 6,
+      "exact": 4,
+      "nested": 4,
+      "states": 79
+    },
+    {
+      "T": 5,
+      "m": 1,
+      "r": 1,
+      "S": 6,
+      "exact": 5,
+      "nested": 5,
+      "states": 118
+    },
+    {
+      "T": 6,
+      "m": 1,
+      "r": 1,
+      "S": 6,
+      "exact": 9,
+      "nested": 9,
+      "states": 494
+    },
+    {
+      "T": 7,
+      "m": 1,
+      "r": 1,
+      "S": 6,
+      "exact": 11,
+      "nested": 11,
+      "states": 836
+    },
+    {
+      "T": 0,
+      "m": 1,
+      "r": 1,
+      "S": 7,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 1,
+      "r": 1,
+      "S": 7,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 1,
+      "r": 1,
+      "S": 7,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 1,
+      "r": 1,
+      "S": 7,
+      "exact": 3,
+      "nested": 3,
+      "states": 34
+    },
+    {
+      "T": 4,
+      "m": 1,
+      "r": 1,
+      "S": 7,
+      "exact": 4,
+      "nested": 4,
+      "states": 79
+    },
+    {
+      "T": 5,
+      "m": 1,
+      "r": 1,
+      "S": 7,
+      "exact": 5,
+      "nested": 5,
+      "states": 180
+    },
+    {
+      "T": 6,
+      "m": 1,
+      "r": 1,
+      "S": 7,
+      "exact": 6,
+      "nested": 6,
+      "states": 281
+    },
+    {
+      "T": 7,
+      "m": 1,
+      "r": 1,
+      "S": 7,
+      "exact": 10,
+      "nested": 10,
+      "states": 1398
+    },
+    {
+      "T": 0,
+      "m": 2,
+      "r": 1,
+      "S": 2,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 2,
+      "r": 1,
+      "S": 2,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 2,
+      "m": 2,
+      "r": 1,
+      "S": 2,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 3,
+      "m": 2,
+      "r": 1,
+      "S": 2,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 4,
+      "m": 2,
+      "r": 1,
+      "S": 2,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 5,
+      "m": 2,
+      "r": 1,
+      "S": 2,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 6,
+      "m": 2,
+      "r": 1,
+      "S": 2,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 7,
+      "m": 2,
+      "r": 1,
+      "S": 2,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 0,
+      "m": 2,
+      "r": 1,
+      "S": 3,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 2,
+      "r": 1,
+      "S": 3,
+      "exact": 1,
+      "nested": 1,
+      "states": 2
+    },
+    {
+      "T": 2,
+      "m": 2,
+      "r": 1,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 3,
+      "m": 2,
+      "r": 1,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 4,
+      "m": 2,
+      "r": 1,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 5,
+      "m": 2,
+      "r": 1,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 6,
+      "m": 2,
+      "r": 1,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 7,
+      "m": 2,
+      "r": 1,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 0,
+      "m": 2,
+      "r": 1,
+      "S": 4,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 2,
+      "r": 1,
+      "S": 4,
+      "exact": 1,
+      "nested": 1,
+      "states": 3
+    },
+    {
+      "T": 2,
+      "m": 2,
+      "r": 1,
+      "S": 4,
+      "exact": 2,
+      "nested": 2,
+      "states": 4
+    },
+    {
+      "T": 3,
+      "m": 2,
+      "r": 1,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 4
+    },
+    {
+      "T": 4,
+      "m": 2,
+      "r": 1,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 4
+    },
+    {
+      "T": 5,
+      "m": 2,
+      "r": 1,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 4
+    },
+    {
+      "T": 6,
+      "m": 2,
+      "r": 1,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 4
+    },
+    {
+      "T": 7,
+      "m": 2,
+      "r": 1,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 4
+    },
+    {
+      "T": 0,
+      "m": 2,
+      "r": 1,
+      "S": 5,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 2,
+      "r": 1,
+      "S": 5,
+      "exact": 1,
+      "nested": 1,
+      "states": 4
+    },
+    {
+      "T": 2,
+      "m": 2,
+      "r": 1,
+      "S": 5,
+      "exact": 2,
+      "nested": 2,
+      "states": 7
+    },
+    {
+      "T": 3,
+      "m": 2,
+      "r": 1,
+      "S": 5,
+      "exact": 3,
+      "nested": 3,
+      "states": 9
+    },
+    {
+      "T": 4,
+      "m": 2,
+      "r": 1,
+      "S": 5,
+      "exact": null,
+      "nested": null,
+      "states": 9
+    },
+    {
+      "T": 5,
+      "m": 2,
+      "r": 1,
+      "S": 5,
+      "exact": null,
+      "nested": null,
+      "states": 9
+    },
+    {
+      "T": 6,
+      "m": 2,
+      "r": 1,
+      "S": 5,
+      "exact": null,
+      "nested": null,
+      "states": 9
+    },
+    {
+      "T": 7,
+      "m": 2,
+      "r": 1,
+      "S": 5,
+      "exact": null,
+      "nested": null,
+      "states": 9
+    },
+    {
+      "T": 0,
+      "m": 2,
+      "r": 1,
+      "S": 6,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 2,
+      "r": 1,
+      "S": 6,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 2,
+      "r": 1,
+      "S": 6,
+      "exact": 2,
+      "nested": 2,
+      "states": 10
+    },
+    {
+      "T": 3,
+      "m": 2,
+      "r": 1,
+      "S": 6,
+      "exact": 3,
+      "nested": 3,
+      "states": 16
+    },
+    {
+      "T": 4,
+      "m": 2,
+      "r": 1,
+      "S": 6,
+      "exact": 4,
+      "nested": 4,
+      "states": 20
+    },
+    {
+      "T": 5,
+      "m": 2,
+      "r": 1,
+      "S": 6,
+      "exact": null,
+      "nested": null,
+      "states": 24
+    },
+    {
+      "T": 6,
+      "m": 2,
+      "r": 1,
+      "S": 6,
+      "exact": null,
+      "nested": null,
+      "states": 24
+    },
+    {
+      "T": 7,
+      "m": 2,
+      "r": 1,
+      "S": 6,
+      "exact": null,
+      "nested": null,
+      "states": 24
+    },
+    {
+      "T": 0,
+      "m": 2,
+      "r": 1,
+      "S": 7,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 2,
+      "r": 1,
+      "S": 7,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 2,
+      "r": 1,
+      "S": 7,
+      "exact": 2,
+      "nested": 2,
+      "states": 13
+    },
+    {
+      "T": 3,
+      "m": 2,
+      "r": 1,
+      "S": 7,
+      "exact": 3,
+      "nested": 3,
+      "states": 22
+    },
+    {
+      "T": 4,
+      "m": 2,
+      "r": 1,
+      "S": 7,
+      "exact": 4,
+      "nested": 4,
+      "states": 33
+    },
+    {
+      "T": 5,
+      "m": 2,
+      "r": 1,
+      "S": 7,
+      "exact": 5,
+      "nested": 5,
+      "states": 42
+    },
+    {
+      "T": 6,
+      "m": 2,
+      "r": 1,
+      "S": 7,
+      "exact": 10,
+      "nested": 10,
+      "states": 72
+    },
+    {
+      "T": 7,
+      "m": 2,
+      "r": 1,
+      "S": 7,
+      "exact": null,
+      "nested": null,
+      "states": 72
+    },
+    {
+      "T": 0,
+      "m": 2,
+      "r": 1,
+      "S": 8,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 2,
+      "r": 1,
+      "S": 8,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 2,
+      "r": 1,
+      "S": 8,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 2,
+      "r": 1,
+      "S": 8,
+      "exact": 3,
+      "nested": 3,
+      "states": 29
+    },
+    {
+      "T": 4,
+      "m": 2,
+      "r": 1,
+      "S": 8,
+      "exact": 4,
+      "nested": 4,
+      "states": 48
+    },
+    {
+      "T": 5,
+      "m": 2,
+      "r": 1,
+      "S": 8,
+      "exact": 5,
+      "nested": 5,
+      "states": 69
+    },
+    {
+      "T": 6,
+      "m": 2,
+      "r": 1,
+      "S": 8,
+      "exact": 6,
+      "nested": 6,
+      "states": 92
+    },
+    {
+      "T": 7,
+      "m": 2,
+      "r": 1,
+      "S": 8,
+      "exact": 11,
+      "nested": 11,
+      "states": 206
+    },
+    {
+      "T": 0,
+      "m": 2,
+      "r": 1,
+      "S": 9,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 2,
+      "r": 1,
+      "S": 9,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 2,
+      "r": 1,
+      "S": 9,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 2,
+      "r": 1,
+      "S": 9,
+      "exact": 3,
+      "nested": 3,
+      "states": 33
+    },
+    {
+      "T": 4,
+      "m": 2,
+      "r": 1,
+      "S": 9,
+      "exact": 4,
+      "nested": 4,
+      "states": 62
+    },
+    {
+      "T": 5,
+      "m": 2,
+      "r": 1,
+      "S": 9,
+      "exact": 5,
+      "nested": 5,
+      "states": 102
+    },
+    {
+      "T": 6,
+      "m": 2,
+      "r": 1,
+      "S": 9,
+      "exact": 6,
+      "nested": 6,
+      "states": 145
+    },
+    {
+      "T": 7,
+      "m": 2,
+      "r": 1,
+      "S": 9,
+      "exact": 7,
+      "nested": 7,
+      "states": 199
+    },
+    {
+      "T": 0,
+      "m": 2,
+      "r": 1,
+      "S": 10,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 2,
+      "r": 1,
+      "S": 10,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 2,
+      "r": 1,
+      "S": 10,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 2,
+      "r": 1,
+      "S": 10,
+      "exact": 3,
+      "nested": 3,
+      "states": 34
+    },
+    {
+      "T": 4,
+      "m": 2,
+      "r": 1,
+      "S": 10,
+      "exact": 4,
+      "nested": 4,
+      "states": 73
+    },
+    {
+      "T": 5,
+      "m": 2,
+      "r": 1,
+      "S": 10,
+      "exact": 5,
+      "nested": 5,
+      "states": 132
+    },
+    {
+      "T": 6,
+      "m": 2,
+      "r": 1,
+      "S": 10,
+      "exact": 6,
+      "nested": 6,
+      "states": 213
+    },
+    {
+      "T": 7,
+      "m": 2,
+      "r": 1,
+      "S": 10,
+      "exact": 7,
+      "nested": 7,
+      "states": 309
+    },
+    {
+      "T": 0,
+      "m": 2,
+      "r": 1,
+      "S": 11,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 2,
+      "r": 1,
+      "S": 11,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 2,
+      "r": 1,
+      "S": 11,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 2,
+      "r": 1,
+      "S": 11,
+      "exact": 3,
+      "nested": 3,
+      "states": 34
+    },
+    {
+      "T": 4,
+      "m": 2,
+      "r": 1,
+      "S": 11,
+      "exact": 4,
+      "nested": 4,
+      "states": 78
+    },
+    {
+      "T": 5,
+      "m": 2,
+      "r": 1,
+      "S": 11,
+      "exact": 5,
+      "nested": 5,
+      "states": 157
+    },
+    {
+      "T": 6,
+      "m": 2,
+      "r": 1,
+      "S": 11,
+      "exact": 6,
+      "nested": 6,
+      "states": 280
+    },
+    {
+      "T": 7,
+      "m": 2,
+      "r": 1,
+      "S": 11,
+      "exact": 7,
+      "nested": 7,
+      "states": 444
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 1,
+      "S": 3,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 1,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 1,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 1,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 1,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 1,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 1,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 1,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 1,
+      "S": 4,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 1,
+      "S": 4,
+      "exact": 1,
+      "nested": 1,
+      "states": 2
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 1,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 1,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 1,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 1,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 1,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 1,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 1,
+      "S": 5,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 1,
+      "S": 5,
+      "exact": 1,
+      "nested": 1,
+      "states": 2
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 1,
+      "S": 5,
+      "exact": 2,
+      "nested": 2,
+      "states": 3
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 1,
+      "S": 5,
+      "exact": null,
+      "nested": null,
+      "states": 3
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 1,
+      "S": 5,
+      "exact": null,
+      "nested": null,
+      "states": 3
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 1,
+      "S": 5,
+      "exact": null,
+      "nested": null,
+      "states": 3
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 1,
+      "S": 5,
+      "exact": null,
+      "nested": null,
+      "states": 3
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 1,
+      "S": 5,
+      "exact": null,
+      "nested": null,
+      "states": 3
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 1,
+      "S": 6,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 1,
+      "S": 6,
+      "exact": 1,
+      "nested": 1,
+      "states": 3
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 1,
+      "S": 6,
+      "exact": 2,
+      "nested": 2,
+      "states": 4
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 1,
+      "S": 6,
+      "exact": 3,
+      "nested": 3,
+      "states": 5
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 1,
+      "S": 6,
+      "exact": null,
+      "nested": null,
+      "states": 5
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 1,
+      "S": 6,
+      "exact": null,
+      "nested": null,
+      "states": 5
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 1,
+      "S": 6,
+      "exact": null,
+      "nested": null,
+      "states": 5
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 1,
+      "S": 6,
+      "exact": null,
+      "nested": null,
+      "states": 5
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 1,
+      "S": 7,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 1,
+      "S": 7,
+      "exact": 1,
+      "nested": 1,
+      "states": 4
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 1,
+      "S": 7,
+      "exact": 2,
+      "nested": 2,
+      "states": 7
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 1,
+      "S": 7,
+      "exact": 3,
+      "nested": 3,
+      "states": 9
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 1,
+      "S": 7,
+      "exact": 4,
+      "nested": 4,
+      "states": 10
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 1,
+      "S": 7,
+      "exact": null,
+      "nested": null,
+      "states": 10
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 1,
+      "S": 7,
+      "exact": null,
+      "nested": null,
+      "states": 10
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 1,
+      "S": 7,
+      "exact": null,
+      "nested": null,
+      "states": 10
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 1,
+      "S": 8,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 1,
+      "S": 8,
+      "exact": 1,
+      "nested": 1,
+      "states": 4
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 1,
+      "S": 8,
+      "exact": 2,
+      "nested": 2,
+      "states": 9
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 1,
+      "S": 8,
+      "exact": 3,
+      "nested": 3,
+      "states": 13
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 1,
+      "S": 8,
+      "exact": 4,
+      "nested": 4,
+      "states": 17
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 1,
+      "S": 8,
+      "exact": 5,
+      "nested": 5,
+      "states": 19
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 1,
+      "S": 8,
+      "exact": null,
+      "nested": null,
+      "states": 20
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 1,
+      "S": 8,
+      "exact": null,
+      "nested": null,
+      "states": 20
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 1,
+      "S": 9,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 1,
+      "S": 9,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 1,
+      "S": 9,
+      "exact": 2,
+      "nested": 2,
+      "states": 10
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 1,
+      "S": 9,
+      "exact": 3,
+      "nested": 3,
+      "states": 19
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 1,
+      "S": 9,
+      "exact": 4,
+      "nested": 4,
+      "states": 25
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 1,
+      "S": 9,
+      "exact": 5,
+      "nested": 5,
+      "states": 33
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 1,
+      "S": 9,
+      "exact": 6,
+      "nested": 6,
+      "states": 37
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 1,
+      "S": 9,
+      "exact": null,
+      "nested": null,
+      "states": 44
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 1,
+      "S": 10,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 1,
+      "S": 10,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 1,
+      "S": 10,
+      "exact": 2,
+      "nested": 2,
+      "states": 13
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 1,
+      "S": 10,
+      "exact": 3,
+      "nested": 3,
+      "states": 22
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 1,
+      "S": 10,
+      "exact": 4,
+      "nested": 4,
+      "states": 37
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 1,
+      "S": 10,
+      "exact": 5,
+      "nested": 5,
+      "states": 48
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 1,
+      "S": 10,
+      "exact": 6,
+      "nested": 6,
+      "states": 64
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 1,
+      "S": 10,
+      "exact": 7,
+      "nested": 7,
+      "states": 74
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 1,
+      "S": 11,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 1,
+      "S": 11,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 1,
+      "S": 11,
+      "exact": 2,
+      "nested": 2,
+      "states": 13
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 1,
+      "S": 11,
+      "exact": 3,
+      "nested": 3,
+      "states": 28
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 1,
+      "S": 11,
+      "exact": 4,
+      "nested": 4,
+      "states": 44
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 1,
+      "S": 11,
+      "exact": 5,
+      "nested": 5,
+      "states": 70
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 1,
+      "S": 11,
+      "exact": 6,
+      "nested": 6,
+      "states": 89
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 1,
+      "S": 11,
+      "exact": 7,
+      "nested": 7,
+      "states": 118
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 1,
+      "S": 12,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 1,
+      "S": 12,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 1,
+      "S": 12,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 1,
+      "S": 12,
+      "exact": 3,
+      "nested": 3,
+      "states": 29
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 1,
+      "S": 12,
+      "exact": 4,
+      "nested": 4,
+      "states": 58
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 1,
+      "S": 12,
+      "exact": 5,
+      "nested": 5,
+      "states": 86
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 1,
+      "S": 12,
+      "exact": 6,
+      "nested": 6,
+      "states": 135
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 1,
+      "S": 12,
+      "exact": 7,
+      "nested": 7,
+      "states": 169
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 1,
+      "S": 13,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 1,
+      "S": 13,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 1,
+      "S": 13,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 1,
+      "S": 13,
+      "exact": 3,
+      "nested": 3,
+      "states": 33
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 1,
+      "S": 13,
+      "exact": 4,
+      "nested": 4,
+      "states": 62
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 1,
+      "S": 13,
+      "exact": 5,
+      "nested": 5,
+      "states": 117
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 1,
+      "S": 13,
+      "exact": 6,
+      "nested": 6,
+      "states": 169
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 1,
+      "S": 13,
+      "exact": 7,
+      "nested": 7,
+      "states": 260
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 1,
+      "S": 14,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 1,
+      "S": 14,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 1,
+      "S": 14,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 1,
+      "S": 14,
+      "exact": 3,
+      "nested": 3,
+      "states": 33
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 1,
+      "S": 14,
+      "exact": 4,
+      "nested": 4,
+      "states": 72
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 1,
+      "S": 14,
+      "exact": 5,
+      "nested": 5,
+      "states": 127
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 1,
+      "S": 14,
+      "exact": 6,
+      "nested": 6,
+      "states": 229
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 1,
+      "S": 14,
+      "exact": 7,
+      "nested": 7,
+      "states": 326
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 1,
+      "S": 15,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 1,
+      "S": 15,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 1,
+      "S": 15,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 1,
+      "S": 15,
+      "exact": 3,
+      "nested": 3,
+      "states": 34
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 1,
+      "S": 15,
+      "exact": 4,
+      "nested": 4,
+      "states": 73
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 1,
+      "S": 15,
+      "exact": 5,
+      "nested": 5,
+      "states": 152
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 1,
+      "S": 15,
+      "exact": 6,
+      "nested": 6,
+      "states": 255
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 1,
+      "S": 15,
+      "exact": 7,
+      "nested": 7,
+      "states": 447
+    },
+    {
+      "T": 0,
+      "m": 1,
+      "r": 2,
+      "S": 1,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 1,
+      "r": 2,
+      "S": 1,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 2,
+      "m": 1,
+      "r": 2,
+      "S": 1,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 3,
+      "m": 1,
+      "r": 2,
+      "S": 1,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 4,
+      "m": 1,
+      "r": 2,
+      "S": 1,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 5,
+      "m": 1,
+      "r": 2,
+      "S": 1,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 6,
+      "m": 1,
+      "r": 2,
+      "S": 1,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 7,
+      "m": 1,
+      "r": 2,
+      "S": 1,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 0,
+      "m": 1,
+      "r": 2,
+      "S": 2,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 1,
+      "r": 2,
+      "S": 2,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 2,
+      "m": 1,
+      "r": 2,
+      "S": 2,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 3,
+      "m": 1,
+      "r": 2,
+      "S": 2,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 4,
+      "m": 1,
+      "r": 2,
+      "S": 2,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 5,
+      "m": 1,
+      "r": 2,
+      "S": 2,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 6,
+      "m": 1,
+      "r": 2,
+      "S": 2,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 7,
+      "m": 1,
+      "r": 2,
+      "S": 2,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 0,
+      "m": 1,
+      "r": 2,
+      "S": 3,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 1,
+      "r": 2,
+      "S": 3,
+      "exact": 1,
+      "nested": 1,
+      "states": 4
+    },
+    {
+      "T": 2,
+      "m": 1,
+      "r": 2,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 4
+    },
+    {
+      "T": 3,
+      "m": 1,
+      "r": 2,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 4
+    },
+    {
+      "T": 4,
+      "m": 1,
+      "r": 2,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 4
+    },
+    {
+      "T": 5,
+      "m": 1,
+      "r": 2,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 4
+    },
+    {
+      "T": 6,
+      "m": 1,
+      "r": 2,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 4
+    },
+    {
+      "T": 7,
+      "m": 1,
+      "r": 2,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 4
+    },
+    {
+      "T": 0,
+      "m": 1,
+      "r": 2,
+      "S": 4,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 1,
+      "r": 2,
+      "S": 4,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 1,
+      "r": 2,
+      "S": 4,
+      "exact": 4,
+      "nested": 4,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 1,
+      "r": 2,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 14
+    },
+    {
+      "T": 4,
+      "m": 1,
+      "r": 2,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 14
+    },
+    {
+      "T": 5,
+      "m": 1,
+      "r": 2,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 14
+    },
+    {
+      "T": 6,
+      "m": 1,
+      "r": 2,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 14
+    },
+    {
+      "T": 7,
+      "m": 1,
+      "r": 2,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 14
+    },
+    {
+      "T": 0,
+      "m": 1,
+      "r": 2,
+      "S": 5,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 1,
+      "r": 2,
+      "S": 5,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 1,
+      "r": 2,
+      "S": 5,
+      "exact": 2,
+      "nested": 2,
+      "states": 12
+    },
+    {
+      "T": 3,
+      "m": 1,
+      "r": 2,
+      "S": 5,
+      "exact": 7,
+      "nested": 7,
+      "states": 38
+    },
+    {
+      "T": 4,
+      "m": 1,
+      "r": 2,
+      "S": 5,
+      "exact": 13,
+      "nested": 13,
+      "states": 67
+    },
+    {
+      "T": 5,
+      "m": 1,
+      "r": 2,
+      "S": 5,
+      "exact": null,
+      "nested": null,
+      "states": 67
+    },
+    {
+      "T": 6,
+      "m": 1,
+      "r": 2,
+      "S": 5,
+      "exact": null,
+      "nested": null,
+      "states": 67
+    },
+    {
+      "T": 7,
+      "m": 1,
+      "r": 2,
+      "S": 5,
+      "exact": null,
+      "nested": null,
+      "states": 67
+    },
+    {
+      "T": 0,
+      "m": 1,
+      "r": 2,
+      "S": 6,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 1,
+      "r": 2,
+      "S": 6,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 1,
+      "r": 2,
+      "S": 6,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 1,
+      "r": 2,
+      "S": 6,
+      "exact": 5,
+      "nested": 5,
+      "states": 50
+    },
+    {
+      "T": 4,
+      "m": 1,
+      "r": 2,
+      "S": 6,
+      "exact": 7,
+      "nested": 7,
+      "states": 94
+    },
+    {
+      "T": 5,
+      "m": 1,
+      "r": 2,
+      "S": 6,
+      "exact": 12,
+      "nested": 12,
+      "states": 182
+    },
+    {
+      "T": 6,
+      "m": 1,
+      "r": 2,
+      "S": 6,
+      "exact": 18,
+      "nested": 18,
+      "states": 333
+    },
+    {
+      "T": 7,
+      "m": 1,
+      "r": 2,
+      "S": 6,
+      "exact": 28,
+      "nested": 28,
+      "states": 555
+    },
+    {
+      "T": 0,
+      "m": 1,
+      "r": 2,
+      "S": 7,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 1,
+      "r": 2,
+      "S": 7,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 1,
+      "r": 2,
+      "S": 7,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 1,
+      "r": 2,
+      "S": 7,
+      "exact": 3,
+      "nested": 3,
+      "states": 31
+    },
+    {
+      "T": 4,
+      "m": 1,
+      "r": 2,
+      "S": 7,
+      "exact": 7,
+      "nested": 7,
+      "states": 153
+    },
+    {
+      "T": 5,
+      "m": 1,
+      "r": 2,
+      "S": 7,
+      "exact": 10,
+      "nested": 10,
+      "states": 345
+    },
+    {
+      "T": 6,
+      "m": 1,
+      "r": 2,
+      "S": 7,
+      "exact": 12,
+      "nested": 12,
+      "states": 547
+    },
+    {
+      "T": 7,
+      "m": 1,
+      "r": 2,
+      "S": 7,
+      "exact": 17,
+      "nested": 17,
+      "states": 1043
+    },
+    {
+      "T": 0,
+      "m": 1,
+      "r": 2,
+      "S": 8,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 1,
+      "r": 2,
+      "S": 8,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 1,
+      "r": 2,
+      "S": 8,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 1,
+      "r": 2,
+      "S": 8,
+      "exact": 3,
+      "nested": 3,
+      "states": 34
+    },
+    {
+      "T": 4,
+      "m": 1,
+      "r": 2,
+      "S": 8,
+      "exact": 6,
+      "nested": 6,
+      "states": 153
+    },
+    {
+      "T": 5,
+      "m": 1,
+      "r": 2,
+      "S": 8,
+      "exact": 8,
+      "nested": 8,
+      "states": 356
+    },
+    {
+      "T": 6,
+      "m": 1,
+      "r": 2,
+      "S": 8,
+      "exact": 10,
+      "nested": 10,
+      "states": 718
+    },
+    {
+      "T": 7,
+      "m": 1,
+      "r": 2,
+      "S": 8,
+      "exact": 14,
+      "nested": 14,
+      "states": 2018
+    },
+    {
+      "T": 0,
+      "m": 1,
+      "r": 2,
+      "S": 9,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 1,
+      "r": 2,
+      "S": 9,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 1,
+      "r": 2,
+      "S": 9,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 1,
+      "r": 2,
+      "S": 9,
+      "exact": 3,
+      "nested": 3,
+      "states": 34
+    },
+    {
+      "T": 4,
+      "m": 1,
+      "r": 2,
+      "S": 9,
+      "exact": 4,
+      "nested": 4,
+      "states": 75
+    },
+    {
+      "T": 5,
+      "m": 1,
+      "r": 2,
+      "S": 9,
+      "exact": 8,
+      "nested": 8,
+      "states": 530
+    },
+    {
+      "T": 6,
+      "m": 1,
+      "r": 2,
+      "S": 9,
+      "exact": 10,
+      "nested": 10,
+      "states": 1199
+    },
+    {
+      "T": 7,
+      "m": 1,
+      "r": 2,
+      "S": 9,
+      "exact": 13,
+      "nested": 13,
+      "states": 3009
+    },
+    {
+      "T": 0,
+      "m": 1,
+      "r": 2,
+      "S": 10,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 1,
+      "r": 2,
+      "S": 10,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 1,
+      "r": 2,
+      "S": 10,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 1,
+      "r": 2,
+      "S": 10,
+      "exact": 3,
+      "nested": 3,
+      "states": 34
+    },
+    {
+      "T": 4,
+      "m": 1,
+      "r": 2,
+      "S": 10,
+      "exact": 4,
+      "nested": 4,
+      "states": 79
+    },
+    {
+      "T": 5,
+      "m": 1,
+      "r": 2,
+      "S": 10,
+      "exact": 7,
+      "nested": 7,
+      "states": 429
+    },
+    {
+      "T": 6,
+      "m": 1,
+      "r": 2,
+      "S": 10,
+      "exact": 9,
+      "nested": 9,
+      "states": 1168
+    },
+    {
+      "T": 7,
+      "m": 1,
+      "r": 2,
+      "S": 10,
+      "exact": 11,
+      "nested": 11,
+      "states": 2768
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 2,
+      "S": 3,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 2,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 2,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 2,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 2,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 2,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 2,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 2,
+      "S": 3,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 2,
+      "S": 4,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 2,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 2,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 2,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 2,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 2,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 2,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 2,
+      "S": 4,
+      "exact": null,
+      "nested": null,
+      "states": 1
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 2,
+      "S": 5,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 2,
+      "S": 5,
+      "exact": 1,
+      "nested": 1,
+      "states": 2
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 2,
+      "S": 5,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 2,
+      "S": 5,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 2,
+      "S": 5,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 2,
+      "S": 5,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 2,
+      "S": 5,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 2,
+      "S": 5,
+      "exact": null,
+      "nested": null,
+      "states": 2
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 2,
+      "S": 6,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 2,
+      "S": 6,
+      "exact": 1,
+      "nested": 1,
+      "states": 3
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 2,
+      "S": 6,
+      "exact": null,
+      "nested": null,
+      "states": 3
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 2,
+      "S": 6,
+      "exact": null,
+      "nested": null,
+      "states": 3
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 2,
+      "S": 6,
+      "exact": null,
+      "nested": null,
+      "states": 3
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 2,
+      "S": 6,
+      "exact": null,
+      "nested": null,
+      "states": 3
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 2,
+      "S": 6,
+      "exact": null,
+      "nested": null,
+      "states": 3
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 2,
+      "S": 6,
+      "exact": null,
+      "nested": null,
+      "states": 3
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 2,
+      "S": 7,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 2,
+      "S": 7,
+      "exact": 1,
+      "nested": 1,
+      "states": 3
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 2,
+      "S": 7,
+      "exact": 2,
+      "nested": 2,
+      "states": 4
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 2,
+      "S": 7,
+      "exact": null,
+      "nested": null,
+      "states": 4
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 2,
+      "S": 7,
+      "exact": null,
+      "nested": null,
+      "states": 4
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 2,
+      "S": 7,
+      "exact": null,
+      "nested": null,
+      "states": 4
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 2,
+      "S": 7,
+      "exact": null,
+      "nested": null,
+      "states": 4
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 2,
+      "S": 7,
+      "exact": null,
+      "nested": null,
+      "states": 4
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 2,
+      "S": 8,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 2,
+      "S": 8,
+      "exact": 1,
+      "nested": 1,
+      "states": 4
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 2,
+      "S": 8,
+      "exact": 2,
+      "nested": 2,
+      "states": 7
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 2,
+      "S": 8,
+      "exact": null,
+      "nested": null,
+      "states": 8
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 2,
+      "S": 8,
+      "exact": null,
+      "nested": null,
+      "states": 8
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 2,
+      "S": 8,
+      "exact": null,
+      "nested": null,
+      "states": 8
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 2,
+      "S": 8,
+      "exact": null,
+      "nested": null,
+      "states": 8
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 2,
+      "S": 8,
+      "exact": null,
+      "nested": null,
+      "states": 8
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 2,
+      "S": 9,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 2,
+      "S": 9,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 2,
+      "S": 9,
+      "exact": 2,
+      "nested": 2,
+      "states": 8
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 2,
+      "S": 9,
+      "exact": 3,
+      "nested": 3,
+      "states": 12
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 2,
+      "S": 9,
+      "exact": null,
+      "nested": null,
+      "states": 12
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 2,
+      "S": 9,
+      "exact": null,
+      "nested": null,
+      "states": 12
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 2,
+      "S": 9,
+      "exact": null,
+      "nested": null,
+      "states": 12
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 2,
+      "S": 9,
+      "exact": null,
+      "nested": null,
+      "states": 12
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 2,
+      "S": 10,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 2,
+      "S": 10,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 2,
+      "S": 10,
+      "exact": 2,
+      "nested": 2,
+      "states": 10
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 2,
+      "S": 10,
+      "exact": 3,
+      "nested": 3,
+      "states": 16
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 2,
+      "S": 10,
+      "exact": 7,
+      "nested": 7,
+      "states": 23
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 2,
+      "S": 10,
+      "exact": null,
+      "nested": null,
+      "states": 23
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 2,
+      "S": 10,
+      "exact": null,
+      "nested": null,
+      "states": 23
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 2,
+      "S": 10,
+      "exact": null,
+      "nested": null,
+      "states": 23
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 2,
+      "S": 11,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 2,
+      "S": 11,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 2,
+      "S": 11,
+      "exact": 2,
+      "nested": 2,
+      "states": 13
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 2,
+      "S": 11,
+      "exact": 3,
+      "nested": 3,
+      "states": 19
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 2,
+      "S": 11,
+      "exact": 4,
+      "nested": 4,
+      "states": 28
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 2,
+      "S": 11,
+      "exact": null,
+      "nested": null,
+      "states": 41
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 2,
+      "S": 11,
+      "exact": null,
+      "nested": null,
+      "states": 41
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 2,
+      "S": 11,
+      "exact": null,
+      "nested": null,
+      "states": 41
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 2,
+      "S": 12,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 2,
+      "S": 12,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 2,
+      "S": 12,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 2,
+      "S": 12,
+      "exact": 3,
+      "nested": 3,
+      "states": 23
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 2,
+      "S": 12,
+      "exact": 4,
+      "nested": 4,
+      "states": 37
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 2,
+      "S": 12,
+      "exact": 8,
+      "nested": 8,
+      "states": 86
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 2,
+      "S": 12,
+      "exact": 10,
+      "nested": 10,
+      "states": 93
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 2,
+      "S": 12,
+      "exact": null,
+      "nested": null,
+      "states": 93
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 2,
+      "S": 13,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 2,
+      "S": 13,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 2,
+      "S": 13,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 2,
+      "S": 13,
+      "exact": 3,
+      "nested": 3,
+      "states": 29
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 2,
+      "S": 13,
+      "exact": 4,
+      "nested": 4,
+      "states": 44
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 2,
+      "S": 13,
+      "exact": 5,
+      "nested": 5,
+      "states": 63
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 2,
+      "S": 13,
+      "exact": 10,
+      "nested": 10,
+      "states": 141
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 2,
+      "S": 13,
+      "exact": 14,
+      "nested": 14,
+      "states": 161
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 2,
+      "S": 14,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 2,
+      "S": 14,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 2,
+      "S": 14,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 2,
+      "S": 14,
+      "exact": 3,
+      "nested": 3,
+      "states": 33
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 2,
+      "S": 14,
+      "exact": 4,
+      "nested": 4,
+      "states": 52
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 2,
+      "S": 14,
+      "exact": 5,
+      "nested": 5,
+      "states": 85
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 2,
+      "S": 14,
+      "exact": 9,
+      "nested": 9,
+      "states": 214
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 2,
+      "S": 14,
+      "exact": 11,
+      "nested": 11,
+      "states": 313
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 2,
+      "S": 15,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 2,
+      "S": 15,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 2,
+      "S": 15,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 2,
+      "S": 15,
+      "exact": 3,
+      "nested": 3,
+      "states": 34
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 2,
+      "S": 15,
+      "exact": 4,
+      "nested": 4,
+      "states": 63
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 2,
+      "S": 15,
+      "exact": 5,
+      "nested": 5,
+      "states": 102
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 2,
+      "S": 15,
+      "exact": 6,
+      "nested": 6,
+      "states": 143
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 2,
+      "S": 15,
+      "exact": 11,
+      "nested": 11,
+      "states": 464
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 2,
+      "S": 16,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 2,
+      "S": 16,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 2,
+      "S": 16,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 2,
+      "S": 16,
+      "exact": 3,
+      "nested": 3,
+      "states": 34
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 2,
+      "S": 16,
+      "exact": 4,
+      "nested": 4,
+      "states": 73
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 2,
+      "S": 16,
+      "exact": 5,
+      "nested": 5,
+      "states": 117
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 2,
+      "S": 16,
+      "exact": 6,
+      "nested": 6,
+      "states": 189
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 2,
+      "S": 16,
+      "exact": 10,
+      "nested": 10,
+      "states": 525
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 2,
+      "S": 17,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 2,
+      "S": 17,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 2,
+      "S": 17,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 2,
+      "S": 17,
+      "exact": 3,
+      "nested": 3,
+      "states": 34
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 2,
+      "S": 17,
+      "exact": 4,
+      "nested": 4,
+      "states": 78
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 2,
+      "S": 17,
+      "exact": 5,
+      "nested": 5,
+      "states": 137
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 2,
+      "S": 17,
+      "exact": 6,
+      "nested": 6,
+      "states": 232
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 2,
+      "S": 17,
+      "exact": 7,
+      "nested": 7,
+      "states": 326
+    },
+    {
+      "T": 0,
+      "m": 3,
+      "r": 2,
+      "S": 18,
+      "exact": 0,
+      "nested": 0,
+      "states": 1
+    },
+    {
+      "T": 1,
+      "m": 3,
+      "r": 2,
+      "S": 18,
+      "exact": 1,
+      "nested": 1,
+      "states": 5
+    },
+    {
+      "T": 2,
+      "m": 3,
+      "r": 2,
+      "S": 18,
+      "exact": 2,
+      "nested": 2,
+      "states": 14
+    },
+    {
+      "T": 3,
+      "m": 3,
+      "r": 2,
+      "S": 18,
+      "exact": 3,
+      "nested": 3,
+      "states": 34
+    },
+    {
+      "T": 4,
+      "m": 3,
+      "r": 2,
+      "S": 18,
+      "exact": 4,
+      "nested": 4,
+      "states": 79
+    },
+    {
+      "T": 5,
+      "m": 3,
+      "r": 2,
+      "S": 18,
+      "exact": 5,
+      "nested": 5,
+      "states": 158
+    },
+    {
+      "T": 6,
+      "m": 3,
+      "r": 2,
+      "S": 18,
+      "exact": 6,
+      "nested": 6,
+      "states": 265
+    },
+    {
+      "T": 7,
+      "m": 3,
+      "r": 2,
+      "S": 18,
+      "exact": 7,
+      "nested": 7,
+      "states": 418
+    }
+  ]
+}

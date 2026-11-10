@@ -1,0 +1,36 @@
+{
+  "residue_inverse_checks": 5790,
+  "ordinary_cutoff_checks": [
+    {
+      "n": 0,
+      "board": 1,
+      "max_reached": 0,
+      "states": 1
+    },
+    {
+      "n": 1,
+      "board": 2,
+      "max_reached": 1,
+      "states": 2
+    },
+    {
+      "n": 2,
+      "board": 4,
+      "max_reached": 3,
+      "states": 5
+    },
+    {
+      "n": 3,
+      "board": 8,
+      "max_reached": 7,
+      "states": 26
+    },
+    {
+      "n": 4,
+      "board": 16,
+      "max_reached": 15,
+      "states": 373
+    }
+  ],
+  "ghost_branch_checks": 28
+}

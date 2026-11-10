@@ -1,0 +1,78 @@
+✔ [2/13] Built Pebble.Moves (1.1s)
+✔ [3/13] Built Pebble.Region (815ms)
+✔ [4/13] Built Pebble.Oracle (1.2s)
+✔ [5/13] Built Pebble.Rules (1.0s)
+✔ [6/13] Built Pebble.DAG (844ms)
+✔ [7/13] Built Pebble.Chain (1.9s)
+✔ [8/13] Built Pebble.Counterexamples (700ms)
+✔ [9/13] Built Pebble.Checker (1.1s)
+✔ [10/13] Built Pebble.Examples (684ms)
+ℹ [11/13] Built Pebble.Audit (686ms)
+info: Pebble/Audit.lean:12:0: 'Pebble.Chain.state_setStep' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:13:0: 'Pebble.Chain.adv_sound' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:14:0: 'Pebble.Chain.ret_sound' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:15:0: 'Pebble.Chain.state_copy_update' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:16:0: 'Pebble.Chain.dup_sound' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:17:0: 'Pebble.Chain.undup_sound' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:18:0: 'Pebble.Chain.move_sound' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:19:0: 'Pebble.Chain.legal_play_sound' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:20:0: 'Pebble.Chain.legal_play_derivation' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:21:0: 'Pebble.Chain.start_clean' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:22:0: 'Pebble.Chain.legal_play_oracle' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:23:0: 'Pebble.Chain.checker_sound' depends on axioms: [propext]
+info: Pebble/Audit.lean:24:0: 'Pebble.Chain.checker_complete' depends on axioms: [propext]
+info: Pebble/Audit.lean:25:0: 'Pebble.Chain.accepts_iff_legal' depends on axioms: [propext]
+info: Pebble/Audit.lean:26:0: 'Pebble.Chain.legal_peak_bound' depends on axioms: [propext]
+info: Pebble/Audit.lean:27:0: 'Pebble.Chain.checker_peak_bound' depends on axioms: [propext]
+info: Pebble/Audit.lean:28:0: 'Pebble.Chain.checked_play_oracle' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:29:0: 'Pebble.Counterexamples.physical_relabel_not_zero_gates' does not depend on any axioms
+info: Pebble/Audit.lean:30:0: 'Pebble.Counterexamples.physical_relabel_with_permutation' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:31:0: 'Pebble.Counterexamples.empty_play_legal_without_goal' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:32:0: 'Pebble.Counterexamples.empty_compute_not_one_oracle' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:33:0: 'Pebble.DAG.toggle_sound' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:34:0: 'Pebble.DAG.strategy_sound' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:35:0: 'Pebble.DAG.strategy_derivation' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:36:0: 'Pebble.sound_id' does not depend on any axioms
+info: Pebble/Audit.lean:37:0: 'Pebble.sound_comp' does not depend on any axioms
+info: Pebble/Audit.lean:38:0: 'Pebble.sound_inverse' does not depend on any axioms
+info: Pebble/Audit.lean:39:0: 'Pebble.sound_frame' depends on axioms: [Quot.sound]
+info: Pebble/Audit.lean:40:0: 'Pebble.preserves_inverse' does not depend on any axioms
+info: Pebble/Audit.lean:41:0: 'Pebble.sound_guard' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:42:0: 'Pebble.stage_zero' depends on axioms: [propext]
+info: Pebble/Audit.lean:43:0: 'Pebble.stage_zero_delete' depends on axioms: [propext]
+info: Pebble/Audit.lean:44:0: 'Pebble.stage_one' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:45:0: 'Pebble.sound_replacement' does not depend on any axioms
+info: Pebble/Audit.lean:46:0: 'Pebble.xorBits_cancel' depends on axioms: [Quot.sound]
+info: Pebble/Audit.lean:47:0: 'Pebble.commit_involution' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:48:0: 'Pebble.oracle_contract' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:49:0: 'Pebble.oracle_involution' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:50:0: 'Pebble.oracle_controlled' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:51:0: 'Pebble.oracle_garbage_independent' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:52:0: 'Pebble.dirty_oracle_contract' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:53:0: 'Pebble.borrowed_oracle_contract' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:54:0: 'Pebble.clean_oracle_contract' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:55:0: 'Pebble.Region.read_put' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:56:0: 'Pebble.Region.put_read' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:57:0: 'Pebble.Region.put_put' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:58:0: 'Pebble.Region.sound_lift' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:59:0: 'Pebble.Rules.disjoint_select_none' does not depend on any axioms
+info: Pebble/Audit.lean:60:0: 'Pebble.Rules.member_content' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:61:0: 'Pebble.Rules.fresh_clean' depends on axioms: [propext]
+info: Pebble/Audit.lean:62:0: 'Pebble.Rules.eval_add_sound' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:63:0: 'Pebble.Rules.copy_add_sound' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:64:0: 'Pebble.Rules.eval_local' depends on axioms: [Quot.sound]
+info: Pebble/Audit.lean:65:0: 'Pebble.Rules.xor_evaluator_involution' depends on axioms: [Quot.sound]
+info: Pebble/Audit.lean:66:0: 'Pebble.Rules.copyRun_involution' depends on axioms: [Quot.sound]
+info: Pebble/Audit.lean:67:0: 'Pebble.Rules.copy_spec' depends on axioms: [Quot.sound]
+info: Pebble/Audit.lean:68:0: 'Pebble.Rules.eval_sound' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:69:0: 'Pebble.Rules.copy_sound' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:70:0: 'Pebble.Rules.specified_local_sound' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:71:0: 'Pebble.Rules.inplace_sound' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:72:0: 'Pebble.Rules.inplace_residue_injective' does not depend on any axioms
+info: Pebble/Audit.lean:73:0: 'Pebble.Rules.relabel_sound' does not depend on any axioms
+info: Pebble/Audit.lean:74:0: 'Pebble.Rules.wire_relabel_sound' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:75:0: 'Pebble.Rules.guard_sound' depends on axioms: [propext, Quot.sound]
+info: Pebble/Audit.lean:76:0: 'Pebble.Rules.calculus_sound' does not depend on any axioms
+info: Pebble/Audit.lean:79:0: 'Pebble.symbolicSpace' depends on axioms: [propext, Classical.choice, Quot.sound]
+✔ [12/13] Built Pebble (563ms)
+Build completed successfully (13 jobs).

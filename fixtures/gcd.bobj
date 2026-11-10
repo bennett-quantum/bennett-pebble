@@ -1,0 +1,24 @@
+bennett-object isa=0.9 object=0.9 launch=0.9 sched=0.9 cert=0.9 coverage=0.9 target=0.9 ptr_width=32
+
+section functions
+oracle @gcd (x:wire[8] in) (t:wire[8]) (f:wire[4]) () ()
+regs { a:reg[8], b:reg[8], z:reg[8], done:reg[1], less:reg[1] }
+^entry():
+a = lift.mov x
+b = lift.const.i8 105
+z = lift.const.i8 0
+qjump ^test
+^test():
+done = lift.icmp.eq a z
+qbranch done ^done ^compare
+^compare():
+less = lift.icmp.ult a b
+qbranch less ^swap ^subtract
+^swap():
+(a, b) = lift.parmov (b, a)
+qjump ^test
+^subtract():
+a = lift.sub a b
+qjump ^test
+^done():
+lift.retval b

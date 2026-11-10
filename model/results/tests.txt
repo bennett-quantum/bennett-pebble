@@ -1,0 +1,59 @@
+   Compiling pebble-model v0.1.0 (/home/tobias/Projects/bennett-experiments/model)
+    Finished `test` profile [optimized + debuginfo] target(s) in 6.76s
+     Running unittests src/lib.rs (model/target/debug/deps/pebble_model-b3f7b59aa83dff2f)
+
+running 39 tests
+test bits::tests::large_constants ... ok
+test chain::tests::billion_planning ... ok
+test bits::tests::arithmetic ... ok
+test block::tests::coherent_diamond_and_core_horizon_correction ... ok
+test chain::tests::checker_rejects_optimizer_errors ... ok
+test block::tests::liveness_and_period_are_bounded ... ok
+test circuit::tests::affine_repetition_and_adjoint ... ok
+test circuit::tests::billion_steps_have_constant_structure ... ok
+test circuit::tests::hierarchy_cost_sim_emit ... ok
+test circuit::tests::reject_control_on_body - should panic ... ok
+test circuit::tests::streaming_allocation_does_not_materialize_wires ... ok
+test gadgets::tests::controlled_select_casts_and_permutations_all_states ... ok
+test gadgets::tests::inplace_all_states_controlled_and_inverse ... ok
+test gadgets::tests::odd_multiply_above_host_width ... ok
+test gadgets::tests::select_and_casts_all_interface_states ... ok
+test compiler::tests::fixed_classical_arguments_are_staged_and_read_only ... ok
+test compiler::tests::baseline_inc8_all_boundary_budgets ... ok
+test compiler::tests::huge_description_is_small ... ok
+test chain::tests::exact_vs_nested_uniform_and_nonuniform ... ok
+test gadgets::tests::all_allocated_wire_states_at_width_one ... ok
+test residue::tests::select_rule_exhaustive_including_residue ... ok
+test residue::tests::table_and_guarded_zero ... ok
+test optimized::tests::optimized_inc8_and_fault_all_inputs ... ok
+test source::tests::inc8_all_inputs_and_boundaries ... ok
+test source::tests::recursive_capture_restore_and_fault_literal_width ... ok
+test source::tests::reject_memory_and_unknown_rows ... ok
+test source::tests::shifts_and_fault_zero ... ok
+test symbolic::tests::guarded_shift_affine_has_one_residue_bit ... ok
+test gadgets::tests::all_evaluators_all_interface_states ... ok
+test block::tests::block_machine_matches_source ... ok
+test optimized::tests::retained_frames_allow_replay_of_small_traces ... ok
+test source::tests::collatz_boundaries ... ok
+test compiler::tests::activations_monotonic_stack_and_initial_call_faults ... ok
+test compiler::tests::pebbled_circuits_force_multiple_levels ... ok
+test compiler::tests::baseline_collatz_small_budget ... ok
+test compiler::tests::affine_truth_verifier_agrees_with_sampled_basis_simulation ... ok
+test optimized::tests::optimized_all_additional_fixtures ... ok
+test optimized::tests::optimized_collatz_all_inputs ... ok
+test optimized::tests::optimized_checkpointing_is_correct ... ok
+
+test result: ok. 39 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 3.44s
+
+     Running unittests src/main.rs (model/target/debug/deps/pebble_model-58775d03df87bb03)
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+   Doc-tests pebble_model
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+

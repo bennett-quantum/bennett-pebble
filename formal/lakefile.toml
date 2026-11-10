@@ -1,0 +1,6 @@
+name = "pebble"
+version = "0.1.0"
+defaultTargets = ["Pebble"]
+
+[[lean_lib]]
+name = "Pebble"

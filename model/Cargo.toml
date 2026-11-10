@@ -1,0 +1,12 @@
+[package]
+name = "pebble-model"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[profile.release]
+overflow-checks = true
+
+[profile.test]
+opt-level = 2

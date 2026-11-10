@@ -1,0 +1,28 @@
+bennett-object isa=0.9 object=0.9 launch=0.9 sched=0.9 cert=0.9 coverage=0.9 target=0.9 ptr_width=32
+
+section symbols
+{"0":{"interface_hash":"ed9865300b85a519c2379de98e36e635e72b5b78d8bdfca03dccf9a09aa3df5e","kind":"oracle","name":"inc8","signature":{"abi":"0.9","args":[],"fault":4,"in":[8],"kind":"oracle","mem":[],"tgt":8,"tier":"q"}}}
+
+section functions
+oracle @countdown (x:wire[8] in) (t:wire[8]) (f:wire[4]) () ()
+regs { r:reg[8] }
+^entry():
+r = lift.call @count (x)
+lift.retval r
+lproc @count (n:reg[8]) (r:reg[8]) () () ()
+regs { z:reg[8], one:reg[8], p:reg[1], n2:reg[8] }
+^entry():
+z = lift.const.i8 0
+p = lift.icmp.eq n z
+qbranch p ^done ^more
+^more():
+one = lift.const.i8 1
+n2 = lift.sub n one
+r = lift.call @count (n2)
+r = lift.add r one
+lift.ret r
+^done():
+lift.ret n
+
+section layout
+{"A_tab":0,"H":12,"S_cells":12,"globals":{},"heap_base":4096,"heap_limit_max":0,"interface_regions":{"countdown":{}},"null_size":4096,"ptr_width":32}

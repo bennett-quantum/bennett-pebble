@@ -1,0 +1,12 @@
+bennett-object isa=0.9 object=0.9 launch=0.9 sched=0.9 cert=0.9 coverage=0.9 target=0.9 ptr_width=32
+
+section functions
+oracle @faultif (x:wire[8] in) (t:wire[8]) (f:wire[4]) () ()
+regs { z:reg[8], p:reg[1], one:reg[8], r:reg[8] }
+^entry():
+z = lift.const.i8 0
+p = lift.icmp.eq x z
+lift.faultif p 0
+one = lift.const.i8 1
+r = lift.add x one
+lift.retval r
