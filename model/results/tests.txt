@@ -1,4 +1,4 @@
-   Compiling pebble-model v0.1.0 (/home/tobias/Projects/bennett-experiments/model)
+   Compiling pebble-model v0.1.0 (model)
     Finished `test` profile [optimized + debuginfo] target(s) in 6.76s
      Running unittests src/lib.rs (model/target/debug/deps/pebble_model-b3f7b59aa83dff2f)
 
